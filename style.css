@@ -1,0 +1,72 @@
+.navbar{
+    background-color: dimgrey;
+    color: white;
+    position: sticky;
+}
+div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
+#navlist a:hover{
+    color: yellow;
+}
+.row img{
+    margin-left: 100px;
+}
+.btn{
+    margin-left: 150px;
+    border-radius: 15%;
+    margin-top: 5px;
+}
+
+.row h3{
+    margin-left: 500px;
+    margin-top: 10px;
+    color: cornflowerblue;
+}
+.row h1{
+    color: dimgray;
+    font-family: 'Prata', serif;
+    margin-left: 100px;
+}
+.bg-image:hover .img{
+  transform: scale(1.2);
+}
+
+.figure h4,p,button,label{
+    margin-left: 100px;
+}
+.figure h4{
+    color:brown;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pics-container{
+    width: 352px;
+    height: 420px;
+    box-shadow: 1px;
+}
+.figure button{
+    border: none;
+    background: none;
+    color: red;
+}
+.label{
+    
+    color: white;
+    
+}
+.warning {background-color: #ff9800;}
+.footer-contents{
+    width: 100%;
+    height: 450px;
+    background-color: dimgray;
+    color: white;
+}
+.footer-contents p{
+    margin-top: 50px;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
